@@ -7,4 +7,4 @@ Supporting information for ["Quasicontinuous Cooperative Adsorption Mechanism in
   - [density_maps](simulation_input/density_maps): simulation.input file for running simulation with computation of methane density, vtk2numpy.py file for plotting density maps from VTK files
   - [energy_surface](simulation_input/energy_surface): simulation.input file for running simulation with one MD move to calculate potential energy at given location and energy_map.py file for running simulations in loop to cover area
   - [GC-TMMC](simulation_input/GC-TMMC): simulation.input file to run GC-TMMC simulation with given number of molecules in the system and calcDOS.py file to posprocess data to obtain density of states **COMMENT:** to calculate DOS you have to run _0..N<sub>max</sub>_ simulations
-  - [GCMC](simulation_input/GCMC): simulation.input and definition files used to run standard GCMC simulations (force filed files are the same for all simulations)
+  - [GCMC](simulation_input/GCMC): simulation.input, force filed and molecule definition files used to run standard GCMC simulations (force filed files are the same for all simulations)
