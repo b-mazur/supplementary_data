@@ -1,0 +1,8 @@
+# number of pseudo atoms
+5
+# type      print   as    chem  oxidation   mass        charge   polarization B-factor radii  connectivity anisotropic anisotropic-type   tinker-type
+Zn         yes     Zn    Zn    0           65.37       0.0      0.0          1.0      1.6    0            0           relative           0
+O          yes     O     O     0           15.9994     0.0      0.0          1.0      0.68   2            0           relative           0
+C          yes     C     C     0           12.0107     0.0      0.0          1.0      0.720  0            0           relative           0
+H          yes     H     H     0           1.00794     0.0      0.0          1.0      0.320  0            0           relative           0
+CH4_sp3    yes     C     C     0           16.04246    0.0      0.0          1.0      1.00   0            0           relative           0
