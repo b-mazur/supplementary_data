@@ -1,0 +1,23 @@
+SimulationType                MonteCarlo
+NumberOfCycles                500000 
+NumberOfInitializationCycles  500000
+PrintEvery                    5000
+RestartFile                   no
+
+Framework 0
+FrameworkName IRMOF-1
+UnitCells 1 1 1 
+ExternalTemperature 102
+ExternalPressure 1
+
+CutOffVDW 12.0
+RemoveAtomNumberCodeFromLabel yes
+
+Component 0 MoleculeName             methane
+            RestrictMovesToBox       yes
+            BoxAxisABC_Min           0.25 0.25 0.25
+            BoxAxisABC_Max           0.75 0.75 0.75
+            TranslationProbability   1.0
+            ReinsertionProbability   1.0
+            SwapProbability          1.0
+            CreateNumberOfMolecules  0

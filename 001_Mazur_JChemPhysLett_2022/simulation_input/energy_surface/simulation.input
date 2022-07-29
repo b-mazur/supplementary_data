@@ -1,0 +1,14 @@
+SimulationType                MD
+NumberOfCycles                1
+PrintEvery                    1
+RestartFile                   yes
+
+Framework 0
+FrameworkName IRMOF-1
+UnitCells 1 1 1
+ExternalTemperature 80
+
+CutOffVDW 14
+
+Component 0 MoleculeName             methane
+            CreateNumberOfMolecules  0
