@@ -1,0 +1,17 @@
+{
+    "beta_mu": -15.74,
+    "beta": 2.4305270188053424e+20,
+    "temperature": 298,
+    "temperature_units": "K",
+    "framework_name": "MOF-303-E4D4",
+    "system_size": [
+        3,
+        2,
+        2
+    ],
+    "molecule_name": "TIP4P",
+    "tail_correction": "water_only",
+    "mu": -6.47596174748e-20,
+    "fugacity": 600.488094854976,
+    "fugacity_units": "Pa"
+}

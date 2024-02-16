@@ -1,0 +1,17 @@
+{
+    "beta_mu": -14.07,
+    "beta": 2.4305270188053424e+20,
+    "temperature": 298,
+    "temperature_units": "K",
+    "framework_name": "NU-1000",
+    "system_size": [
+        1,
+        1,
+        2
+    ],
+    "molecule_name": "TIP4P",
+    "tail_correction": "water_only",
+    "mu": -5.78886796614e-20,
+    "fugacity": 3189.8935200792735,
+    "fugacity_units": "Pa"
+}

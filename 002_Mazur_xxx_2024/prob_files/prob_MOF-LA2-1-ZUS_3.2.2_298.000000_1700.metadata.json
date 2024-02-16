@@ -1,0 +1,13 @@
+{
+    "framework_name": "MOF-LA2-1-ZUS",
+    "system_size": [
+        3,
+        2,
+        2
+    ],
+    "molecule_name": "water_TIP4P",
+    "temperature": 298.0,
+    "temperature_units": "K",
+    "fugacity": 1700.0,
+    "fugacity_units": "Pa"
+}

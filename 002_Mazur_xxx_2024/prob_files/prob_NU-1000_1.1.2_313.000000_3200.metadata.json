@@ -1,0 +1,13 @@
+{
+    "framework_name": "NU-1000",
+    "system_size": [
+        1,
+        1,
+        2
+    ],
+    "molecule_name": "water_TIP4P",
+    "temperature": 313.0,
+    "temperature_units": "K",
+    "fugacity": 3200.0,
+    "fugacity_units": "Pa"
+}
