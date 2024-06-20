@@ -1,4 +1,4 @@
-Supporting information for "Application of Free Energy Landscape Interpolation and Extrapolation for Large-Scale Computational Screening of MOFs for Use in Water Adsorption", B. Mazur, L. Firlej, and B. Kuchta, **2024**
+Supporting information for ["Efficient Modeling of Water Adsorption in MOFs Using Interpolated Transition Matrix Monte Carlo"](https://doi.org/10.1021/acsami.4c02616), B. Mazur, L. Firlej, and B. Kuchta, **2024**, ACS Appl. Mater. Interfaces, DOI: [10.1021/acsami.4c02616](https://doi.org/10.1021/acsami.4c02616)
 
 **Contents**
 
